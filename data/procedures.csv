@@ -1,0 +1,10 @@
+procedure,category,reference_rate
+Knee replacement revision stage-1,procedure,82450
+Hip replacement,procedure,109650
+Cataract surgery,procedure,13500
+Appendectomy,procedure,28050
+Hernia repair,procedure,32725
+MRI head,diagnostic,3400
+ct scan brain,diagnostic,12219
+Ultrasound guided kidney Biopsy,diagnostic,7820
+ECG,diagnostic,149

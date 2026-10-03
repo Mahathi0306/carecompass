@@ -1,0 +1,401 @@
+procedure,reference_rate,city_tier,hospital_type,accredited,room_type,age_group,actual_price,source,data_type
+Ultrasound guided kidney Biopsy,7820,3,trust,0,none,18-40,9630.0,invented demo row,synthetic
+ECG,149,1,trust,1,none,60+,240.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,govt,1,semi,18-40,112880.0,invented demo row,synthetic
+Cataract surgery,13500,3,trust,0,private,41-60,20080.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,trust,1,none,18-40,13990.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,govt,1,none,18-40,8070.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,private,1,private,41-60,188110.0,invented demo row,synthetic
+MRI head,3400,2,govt,1,none,18-40,4010.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,trust,1,semi,18-40,103640.0,invented demo row,synthetic
+Hernia repair,32725,2,private,0,semi,18-40,55330.0,invented demo row,synthetic
+Hip replacement,109650,1,trust,1,private,41-60,235530.0,invented demo row,synthetic
+Appendectomy,28050,3,trust,1,private,41-60,45350.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,3,trust,0,none,60+,9540.0,invented demo row,synthetic
+ct scan brain,12219,3,private,1,none,41-60,17580.0,invented demo row,synthetic
+Cataract surgery,13500,3,trust,0,semi,41-60,16160.0,invented demo row,synthetic
+Appendectomy,28050,1,trust,1,semi,41-60,40590.0,invented demo row,synthetic
+Appendectomy,28050,3,trust,1,semi,41-60,42340.0,invented demo row,synthetic
+Appendectomy,28050,1,trust,0,semi,41-60,49160.0,invented demo row,synthetic
+ECG,149,2,private,1,none,60+,250.0,invented demo row,synthetic
+Appendectomy,28050,3,govt,1,general,18-40,30720.0,invented demo row,synthetic
+ct scan brain,12219,2,private,1,none,41-60,22420.0,invented demo row,synthetic
+Hip replacement,109650,3,govt,0,semi,18-40,103690.0,invented demo row,synthetic
+ECG,149,3,private,0,none,60+,220.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,3,govt,0,none,60+,7620.0,invented demo row,synthetic
+ct scan brain,12219,1,private,1,none,60+,21850.0,invented demo row,synthetic
+ct scan brain,12219,2,govt,0,none,60+,12820.0,invented demo row,synthetic
+ECG,149,3,trust,0,none,18-40,200.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,private,1,none,41-60,16710.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,private,0,none,41-60,10810.0,invented demo row,synthetic
+Cataract surgery,13500,1,private,1,semi,18-40,27340.0,invented demo row,synthetic
+ECG,149,3,trust,1,none,18-40,190.0,invented demo row,synthetic
+Hip replacement,109650,1,trust,0,semi,60+,153340.0,invented demo row,synthetic
+Cataract surgery,13500,3,govt,0,semi,41-60,14770.0,invented demo row,synthetic
+Hernia repair,32725,3,govt,0,semi,18-40,30000.0,invented demo row,synthetic
+Hip replacement,109650,3,trust,0,semi,18-40,146440.0,invented demo row,synthetic
+Appendectomy,28050,1,private,0,semi,18-40,62630.0,invented demo row,synthetic
+MRI head,3400,1,trust,1,none,41-60,5750.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,trust,0,private,18-40,116850.0,invented demo row,synthetic
+Hip replacement,109650,2,private,0,general,18-40,211840.0,invented demo row,synthetic
+ECG,149,3,trust,0,none,18-40,150.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,3,govt,0,none,60+,7280.0,invented demo row,synthetic
+Hip replacement,109650,3,private,0,general,60+,158010.0,invented demo row,synthetic
+ct scan brain,12219,1,govt,0,none,41-60,18140.0,invented demo row,synthetic
+Cataract surgery,13500,3,trust,1,private,18-40,23780.0,invented demo row,synthetic
+MRI head,3400,1,trust,1,none,60+,5450.0,invented demo row,synthetic
+Cataract surgery,13500,1,govt,1,general,60+,15010.0,invented demo row,synthetic
+Hip replacement,109650,1,private,0,private,18-40,273150.0,invented demo row,synthetic
+Cataract surgery,13500,1,trust,0,general,41-60,19920.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,trust,1,none,18-40,13160.0,invented demo row,synthetic
+Hip replacement,109650,1,govt,1,private,18-40,215220.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,private,0,private,18-40,187910.0,invented demo row,synthetic
+Appendectomy,28050,3,govt,0,general,18-40,27270.0,invented demo row,synthetic
+Hip replacement,109650,3,trust,1,semi,18-40,158260.0,invented demo row,synthetic
+Cataract surgery,13500,1,govt,0,general,60+,12140.0,invented demo row,synthetic
+ECG,149,2,private,1,none,41-60,250.0,invented demo row,synthetic
+ct scan brain,12219,3,private,0,none,60+,15940.0,invented demo row,synthetic
+Cataract surgery,13500,1,trust,0,semi,60+,20140.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,govt,0,none,18-40,9590.0,invented demo row,synthetic
+Cataract surgery,13500,2,govt,1,private,41-60,18400.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,trust,1,general,60+,134190.0,invented demo row,synthetic
+Cataract surgery,13500,1,private,0,semi,60+,26210.0,invented demo row,synthetic
+ct scan brain,12219,2,trust,1,none,60+,17770.0,invented demo row,synthetic
+Appendectomy,28050,1,govt,1,general,60+,27920.0,invented demo row,synthetic
+Hernia repair,32725,2,private,1,private,60+,101550.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,govt,0,none,18-40,8950.0,invented demo row,synthetic
+ECG,149,3,private,0,none,41-60,290.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,private,1,private,60+,319790.0,invented demo row,synthetic
+Hernia repair,32725,1,trust,1,semi,18-40,71320.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,private,0,private,60+,212280.0,invented demo row,synthetic
+Cataract surgery,13500,1,trust,0,semi,18-40,20750.0,invented demo row,synthetic
+Appendectomy,28050,1,govt,0,private,18-40,42670.0,invented demo row,synthetic
+MRI head,3400,3,private,0,none,60+,5430.0,invented demo row,synthetic
+ECG,149,3,private,1,none,60+,270.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,private,0,none,41-60,19650.0,invented demo row,synthetic
+ct scan brain,12219,3,trust,0,none,18-40,12030.0,invented demo row,synthetic
+Appendectomy,28050,3,govt,0,semi,60+,22520.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,private,1,general,60+,133510.0,invented demo row,synthetic
+ct scan brain,12219,3,trust,1,none,60+,14870.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,3,trust,0,none,41-60,10500.0,invented demo row,synthetic
+Hip replacement,109650,2,private,0,private,41-60,241430.0,invented demo row,synthetic
+ECG,149,1,trust,0,none,41-60,220.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,trust,1,semi,41-60,122060.0,invented demo row,synthetic
+Appendectomy,28050,1,private,0,general,60+,64100.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,3,trust,1,none,18-40,10390.0,invented demo row,synthetic
+ct scan brain,12219,3,trust,1,none,41-60,17000.0,invented demo row,synthetic
+ct scan brain,12219,3,trust,0,none,18-40,15480.0,invented demo row,synthetic
+ECG,149,1,trust,1,none,60+,230.0,invented demo row,synthetic
+Cataract surgery,13500,2,govt,1,private,41-60,20630.0,invented demo row,synthetic
+Cataract surgery,13500,3,govt,1,private,41-60,15980.0,invented demo row,synthetic
+ct scan brain,12219,2,private,1,none,60+,20600.0,invented demo row,synthetic
+Hip replacement,109650,3,trust,0,general,18-40,128060.0,invented demo row,synthetic
+Hernia repair,32725,1,trust,0,semi,60+,53670.0,invented demo row,synthetic
+ct scan brain,12219,3,private,1,none,41-60,16350.0,invented demo row,synthetic
+Hernia repair,32725,3,private,0,private,18-40,74710.0,invented demo row,synthetic
+Appendectomy,28050,2,private,0,private,60+,65720.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,private,1,none,41-60,15310.0,invented demo row,synthetic
+Cataract surgery,13500,3,trust,1,general,60+,16700.0,invented demo row,synthetic
+MRI head,3400,1,private,1,none,41-60,7330.0,invented demo row,synthetic
+MRI head,3400,3,govt,1,none,41-60,3110.0,invented demo row,synthetic
+Appendectomy,28050,2,trust,0,semi,18-40,45240.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,govt,0,private,18-40,100560.0,invented demo row,synthetic
+Hip replacement,109650,2,trust,0,private,18-40,173560.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,private,0,general,18-40,104100.0,invented demo row,synthetic
+ECG,149,1,govt,1,none,60+,200.0,invented demo row,synthetic
+Hernia repair,32725,1,trust,1,general,60+,49790.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,3,govt,0,none,41-60,7160.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,3,private,1,none,18-40,12310.0,invented demo row,synthetic
+ct scan brain,12219,3,private,0,none,18-40,17830.0,invented demo row,synthetic
+Cataract surgery,13500,3,govt,0,general,60+,13420.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,private,1,general,18-40,106780.0,invented demo row,synthetic
+Cataract surgery,13500,3,private,1,private,60+,29610.0,invented demo row,synthetic
+Hip replacement,109650,3,private,0,general,18-40,152970.0,invented demo row,synthetic
+Hip replacement,109650,3,trust,1,private,18-40,174620.0,invented demo row,synthetic
+ct scan brain,12219,2,govt,1,none,60+,12300.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,govt,1,none,60+,12380.0,invented demo row,synthetic
+Appendectomy,28050,2,govt,0,semi,18-40,32660.0,invented demo row,synthetic
+Cataract surgery,13500,2,private,0,general,60+,21340.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,private,1,none,41-60,15670.0,invented demo row,synthetic
+MRI head,3400,2,private,1,none,18-40,6760.0,invented demo row,synthetic
+ECG,149,2,govt,0,none,41-60,170.0,invented demo row,synthetic
+Cataract surgery,13500,2,trust,1,general,18-40,18600.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,private,0,general,18-40,141340.0,invented demo row,synthetic
+MRI head,3400,1,govt,0,none,60+,3530.0,invented demo row,synthetic
+Cataract surgery,13500,2,trust,1,semi,60+,18810.0,invented demo row,synthetic
+ECG,149,3,trust,1,none,18-40,180.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,trust,0,general,18-40,91830.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,trust,1,semi,41-60,129830.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,govt,1,none,18-40,11440.0,invented demo row,synthetic
+Hip replacement,109650,2,trust,1,semi,60+,173440.0,invented demo row,synthetic
+ct scan brain,12219,2,private,0,none,60+,20630.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,govt,1,general,18-40,83370.0,invented demo row,synthetic
+Appendectomy,28050,2,govt,0,general,18-40,31950.0,invented demo row,synthetic
+ECG,149,1,govt,0,none,41-60,180.0,invented demo row,synthetic
+MRI head,3400,3,govt,0,none,60+,2940.0,invented demo row,synthetic
+Appendectomy,28050,3,private,1,semi,41-60,58870.0,invented demo row,synthetic
+ct scan brain,12219,2,private,0,none,41-60,14550.0,invented demo row,synthetic
+ECG,149,1,private,0,none,60+,270.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,govt,1,private,41-60,105130.0,invented demo row,synthetic
+MRI head,3400,1,private,0,none,41-60,6930.0,invented demo row,synthetic
+ct scan brain,12219,3,govt,0,none,60+,13370.0,invented demo row,synthetic
+ECG,149,2,govt,1,none,41-60,200.0,invented demo row,synthetic
+ECG,149,2,trust,1,none,41-60,250.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,3,govt,0,none,60+,8490.0,invented demo row,synthetic
+MRI head,3400,1,govt,0,none,60+,4130.0,invented demo row,synthetic
+Cataract surgery,13500,1,govt,0,general,41-60,17820.0,invented demo row,synthetic
+Hip replacement,109650,2,govt,0,general,18-40,99300.0,invented demo row,synthetic
+Appendectomy,28050,2,trust,1,semi,60+,42380.0,invented demo row,synthetic
+ECG,149,1,private,0,none,60+,320.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,private,0,semi,60+,143790.0,invented demo row,synthetic
+ECG,149,2,trust,0,none,60+,170.0,invented demo row,synthetic
+Appendectomy,28050,3,trust,0,semi,41-60,32640.0,invented demo row,synthetic
+Appendectomy,28050,1,govt,0,private,60+,40570.0,invented demo row,synthetic
+Hip replacement,109650,1,govt,0,general,18-40,123700.0,invented demo row,synthetic
+Appendectomy,28050,3,trust,0,general,41-60,26520.0,invented demo row,synthetic
+ct scan brain,12219,2,govt,0,none,60+,12500.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,3,private,1,none,60+,15570.0,invented demo row,synthetic
+Hernia repair,32725,2,private,1,private,41-60,67790.0,invented demo row,synthetic
+MRI head,3400,2,private,0,none,18-40,7350.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,trust,1,private,41-60,175060.0,invented demo row,synthetic
+Appendectomy,28050,3,govt,0,private,60+,25880.0,invented demo row,synthetic
+ECG,149,1,trust,1,none,60+,230.0,invented demo row,synthetic
+ECG,149,3,trust,0,none,60+,180.0,invented demo row,synthetic
+Cataract surgery,13500,3,trust,0,general,41-60,14070.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,trust,1,general,18-40,84860.0,invented demo row,synthetic
+MRI head,3400,1,trust,0,none,60+,5030.0,invented demo row,synthetic
+Hernia repair,32725,2,private,0,private,41-60,59620.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,govt,0,semi,41-60,77420.0,invented demo row,synthetic
+Hernia repair,32725,3,trust,0,private,60+,48700.0,invented demo row,synthetic
+Appendectomy,28050,3,private,1,private,41-60,53030.0,invented demo row,synthetic
+Appendectomy,28050,2,trust,1,private,60+,46760.0,invented demo row,synthetic
+Hernia repair,32725,2,trust,0,general,60+,39980.0,invented demo row,synthetic
+ECG,149,3,govt,1,none,41-60,130.0,invented demo row,synthetic
+Hernia repair,32725,3,trust,1,semi,18-40,43560.0,invented demo row,synthetic
+ct scan brain,12219,1,govt,1,none,18-40,12790.0,invented demo row,synthetic
+MRI head,3400,2,private,0,none,41-60,5660.0,invented demo row,synthetic
+Hernia repair,32725,2,govt,0,semi,18-40,37400.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,trust,1,semi,60+,109920.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,3,private,1,none,41-60,12860.0,invented demo row,synthetic
+ECG,149,3,trust,0,none,60+,140.0,invented demo row,synthetic
+Appendectomy,28050,1,trust,1,private,41-60,62030.0,invented demo row,synthetic
+Appendectomy,28050,1,govt,1,general,18-40,39940.0,invented demo row,synthetic
+Cataract surgery,13500,3,govt,0,general,41-60,12730.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,trust,0,private,41-60,134740.0,invented demo row,synthetic
+ct scan brain,12219,3,govt,1,none,18-40,11600.0,invented demo row,synthetic
+Hernia repair,32725,2,govt,0,semi,41-60,43090.0,invented demo row,synthetic
+Cataract surgery,13500,1,private,1,semi,18-40,31570.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,3,private,1,none,18-40,12200.0,invented demo row,synthetic
+ECG,149,1,trust,0,none,18-40,190.0,invented demo row,synthetic
+Cataract surgery,13500,3,govt,0,general,41-60,10740.0,invented demo row,synthetic
+Appendectomy,28050,3,govt,1,private,60+,31680.0,invented demo row,synthetic
+Hernia repair,32725,2,trust,0,semi,18-40,44920.0,invented demo row,synthetic
+Cataract surgery,13500,2,private,0,general,18-40,22380.0,invented demo row,synthetic
+Hernia repair,32725,1,govt,0,semi,41-60,39690.0,invented demo row,synthetic
+Hernia repair,32725,2,govt,0,general,60+,24890.0,invented demo row,synthetic
+Hernia repair,32725,3,private,0,general,18-40,51800.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,govt,0,none,41-60,8250.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,trust,0,none,18-40,10990.0,invented demo row,synthetic
+Appendectomy,28050,1,govt,1,general,18-40,39800.0,invented demo row,synthetic
+Hip replacement,109650,3,trust,0,general,18-40,142250.0,invented demo row,synthetic
+Hip replacement,109650,3,private,0,general,41-60,187590.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,govt,1,none,60+,7870.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,govt,1,semi,41-60,149370.0,invented demo row,synthetic
+Hip replacement,109650,3,govt,0,private,60+,136680.0,invented demo row,synthetic
+ECG,149,3,govt,1,none,41-60,170.0,invented demo row,synthetic
+Hip replacement,109650,2,govt,1,general,60+,127930.0,invented demo row,synthetic
+MRI head,3400,2,govt,1,none,18-40,3270.0,invented demo row,synthetic
+Hernia repair,32725,3,govt,1,private,18-40,42520.0,invented demo row,synthetic
+Hip replacement,109650,2,govt,0,private,18-40,120210.0,invented demo row,synthetic
+Hip replacement,109650,1,private,1,general,60+,238620.0,invented demo row,synthetic
+Cataract surgery,13500,1,trust,1,semi,41-60,23940.0,invented demo row,synthetic
+Cataract surgery,13500,3,govt,1,semi,41-60,13150.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,private,0,semi,41-60,188530.0,invented demo row,synthetic
+Hernia repair,32725,2,private,1,general,18-40,70220.0,invented demo row,synthetic
+MRI head,3400,1,private,1,none,41-60,7480.0,invented demo row,synthetic
+ct scan brain,12219,1,trust,1,none,41-60,20590.0,invented demo row,synthetic
+ct scan brain,12219,3,private,1,none,60+,20610.0,invented demo row,synthetic
+Appendectomy,28050,1,trust,1,semi,18-40,48490.0,invented demo row,synthetic
+ECG,149,2,trust,0,none,41-60,170.0,invented demo row,synthetic
+Hernia repair,32725,3,trust,0,general,60+,38040.0,invented demo row,synthetic
+Cataract surgery,13500,3,govt,0,private,18-40,13210.0,invented demo row,synthetic
+ECG,149,2,private,1,none,41-60,280.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,trust,0,private,41-60,93480.0,invented demo row,synthetic
+ct scan brain,12219,3,trust,0,none,18-40,13130.0,invented demo row,synthetic
+Hip replacement,109650,3,private,1,semi,18-40,245300.0,invented demo row,synthetic
+MRI head,3400,3,trust,0,none,60+,4810.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,3,private,1,none,60+,13610.0,invented demo row,synthetic
+MRI head,3400,1,trust,1,none,41-60,6060.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,trust,1,none,60+,11870.0,invented demo row,synthetic
+Cataract surgery,13500,1,trust,0,semi,41-60,21380.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,govt,1,general,41-60,115040.0,invented demo row,synthetic
+MRI head,3400,1,govt,0,none,41-60,3880.0,invented demo row,synthetic
+Cataract surgery,13500,2,govt,0,general,41-60,11490.0,invented demo row,synthetic
+ECG,149,1,trust,0,none,18-40,220.0,invented demo row,synthetic
+Hip replacement,109650,2,govt,1,general,41-60,97860.0,invented demo row,synthetic
+MRI head,3400,1,govt,0,none,18-40,3860.0,invented demo row,synthetic
+Hernia repair,32725,3,private,1,general,60+,49080.0,invented demo row,synthetic
+Cataract surgery,13500,3,trust,0,semi,18-40,19400.0,invented demo row,synthetic
+ECG,149,2,trust,0,none,60+,150.0,invented demo row,synthetic
+MRI head,3400,2,trust,1,none,18-40,4780.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,govt,1,none,41-60,9290.0,invented demo row,synthetic
+ECG,149,3,govt,1,none,41-60,160.0,invented demo row,synthetic
+Appendectomy,28050,3,govt,1,general,18-40,26240.0,invented demo row,synthetic
+Hip replacement,109650,1,govt,1,private,18-40,178020.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,trust,0,semi,41-60,109070.0,invented demo row,synthetic
+MRI head,3400,1,private,1,none,41-60,8550.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,trust,1,semi,18-40,134590.0,invented demo row,synthetic
+Cataract surgery,13500,1,govt,0,private,18-40,19690.0,invented demo row,synthetic
+ct scan brain,12219,1,trust,0,none,41-60,17210.0,invented demo row,synthetic
+Hip replacement,109650,2,private,0,semi,18-40,205190.0,invented demo row,synthetic
+MRI head,3400,3,govt,0,none,18-40,3730.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,trust,1,general,60+,114220.0,invented demo row,synthetic
+Hernia repair,32725,2,govt,0,private,60+,45500.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,trust,1,none,41-60,12060.0,invented demo row,synthetic
+Hernia repair,32725,1,private,1,general,60+,46250.0,invented demo row,synthetic
+MRI head,3400,2,private,0,none,60+,6120.0,invented demo row,synthetic
+ECG,149,2,govt,1,none,41-60,160.0,invented demo row,synthetic
+Hip replacement,109650,1,private,1,private,18-40,364370.0,invented demo row,synthetic
+Appendectomy,28050,2,govt,1,private,18-40,33340.0,invented demo row,synthetic
+Hip replacement,109650,1,private,0,semi,41-60,236780.0,invented demo row,synthetic
+ECG,149,1,private,1,none,18-40,340.0,invented demo row,synthetic
+Appendectomy,28050,2,govt,0,private,18-40,40030.0,invented demo row,synthetic
+MRI head,3400,2,govt,0,none,41-60,3590.0,invented demo row,synthetic
+Hernia repair,32725,2,govt,0,private,41-60,42790.0,invented demo row,synthetic
+MRI head,3400,3,trust,0,none,60+,3690.0,invented demo row,synthetic
+Appendectomy,28050,2,govt,0,semi,60+,38270.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,trust,0,private,41-60,127120.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,private,1,none,18-40,16440.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,trust,1,none,41-60,11810.0,invented demo row,synthetic
+Cataract surgery,13500,1,private,0,general,60+,25230.0,invented demo row,synthetic
+ct scan brain,12219,2,govt,0,none,60+,10540.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,private,1,none,60+,15100.0,invented demo row,synthetic
+Hernia repair,32725,3,govt,0,private,18-40,35360.0,invented demo row,synthetic
+Hip replacement,109650,1,govt,1,private,60+,185440.0,invented demo row,synthetic
+MRI head,3400,2,trust,1,none,41-60,4560.0,invented demo row,synthetic
+ECG,149,3,govt,0,none,41-60,150.0,invented demo row,synthetic
+ct scan brain,12219,3,trust,0,none,41-60,12950.0,invented demo row,synthetic
+Cataract surgery,13500,2,trust,1,private,41-60,26590.0,invented demo row,synthetic
+ECG,149,1,private,1,none,60+,290.0,invented demo row,synthetic
+ct scan brain,12219,2,private,0,none,60+,21030.0,invented demo row,synthetic
+Hip replacement,109650,3,govt,0,private,18-40,131660.0,invented demo row,synthetic
+Cataract surgery,13500,3,private,0,private,18-40,25190.0,invented demo row,synthetic
+Hernia repair,32725,1,trust,1,semi,41-60,69150.0,invented demo row,synthetic
+MRI head,3400,2,govt,0,none,18-40,3590.0,invented demo row,synthetic
+MRI head,3400,2,govt,0,none,18-40,3220.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,govt,0,general,41-60,72500.0,invented demo row,synthetic
+Hip replacement,109650,1,private,0,general,41-60,209360.0,invented demo row,synthetic
+Hernia repair,32725,1,trust,0,private,60+,52700.0,invented demo row,synthetic
+ECG,149,1,trust,0,none,41-60,200.0,invented demo row,synthetic
+Appendectomy,28050,3,trust,0,private,18-40,41550.0,invented demo row,synthetic
+MRI head,3400,1,trust,1,none,41-60,5210.0,invented demo row,synthetic
+Hip replacement,109650,3,private,1,general,41-60,181760.0,invented demo row,synthetic
+Cataract surgery,13500,1,trust,0,private,18-40,24790.0,invented demo row,synthetic
+MRI head,3400,1,private,0,none,41-60,8030.0,invented demo row,synthetic
+Hip replacement,109650,3,govt,1,general,18-40,126580.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,govt,0,none,60+,8320.0,invented demo row,synthetic
+Appendectomy,28050,1,private,1,private,60+,69790.0,invented demo row,synthetic
+MRI head,3400,2,govt,0,none,60+,3290.0,invented demo row,synthetic
+ECG,149,2,govt,1,none,41-60,170.0,invented demo row,synthetic
+Hip replacement,109650,3,govt,0,general,18-40,102940.0,invented demo row,synthetic
+Cataract surgery,13500,2,govt,0,general,60+,12340.0,invented demo row,synthetic
+MRI head,3400,1,govt,0,none,41-60,4840.0,invented demo row,synthetic
+Hernia repair,32725,1,govt,0,private,41-60,42260.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,private,0,none,18-40,13030.0,invented demo row,synthetic
+ECG,149,3,trust,0,none,18-40,170.0,invented demo row,synthetic
+MRI head,3400,2,private,1,none,41-60,4900.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,trust,0,semi,60+,141630.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,trust,0,none,18-40,12700.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,trust,1,private,60+,171450.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,trust,1,semi,60+,146040.0,invented demo row,synthetic
+MRI head,3400,3,private,0,none,18-40,4510.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,private,0,none,18-40,11090.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,trust,0,private,41-60,143930.0,invented demo row,synthetic
+ECG,149,2,govt,1,none,41-60,130.0,invented demo row,synthetic
+Cataract surgery,13500,1,govt,0,general,60+,12810.0,invented demo row,synthetic
+ct scan brain,12219,2,govt,0,none,18-40,12770.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,govt,0,semi,60+,94750.0,invented demo row,synthetic
+Hernia repair,32725,2,govt,0,general,60+,31510.0,invented demo row,synthetic
+Appendectomy,28050,1,private,1,general,41-60,69310.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,trust,0,semi,18-40,129090.0,invented demo row,synthetic
+Appendectomy,28050,1,govt,1,general,18-40,31820.0,invented demo row,synthetic
+ECG,149,1,govt,0,none,18-40,180.0,invented demo row,synthetic
+ECG,149,2,private,0,none,18-40,230.0,invented demo row,synthetic
+Hernia repair,32725,1,trust,0,semi,18-40,57560.0,invented demo row,synthetic
+ECG,149,1,private,1,none,60+,300.0,invented demo row,synthetic
+Appendectomy,28050,1,govt,0,semi,41-60,30740.0,invented demo row,synthetic
+ct scan brain,12219,3,private,1,none,60+,24450.0,invented demo row,synthetic
+Cataract surgery,13500,1,private,0,general,18-40,28110.0,invented demo row,synthetic
+Hernia repair,32725,2,private,0,semi,60+,65500.0,invented demo row,synthetic
+Cataract surgery,13500,3,private,0,semi,60+,22960.0,invented demo row,synthetic
+MRI head,3400,3,trust,0,none,18-40,4100.0,invented demo row,synthetic
+ECG,149,1,private,0,none,18-40,340.0,invented demo row,synthetic
+Cataract surgery,13500,2,trust,1,semi,60+,23570.0,invented demo row,synthetic
+Appendectomy,28050,2,private,1,private,60+,65400.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,1,trust,1,none,41-60,11440.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,trust,1,semi,18-40,139340.0,invented demo row,synthetic
+Cataract surgery,13500,2,trust,0,general,18-40,19020.0,invented demo row,synthetic
+ct scan brain,12219,2,private,0,none,60+,19690.0,invented demo row,synthetic
+MRI head,3400,2,govt,1,none,60+,4120.0,invented demo row,synthetic
+Cataract surgery,13500,2,govt,1,private,18-40,22490.0,invented demo row,synthetic
+Cataract surgery,13500,2,govt,1,private,41-60,18950.0,invented demo row,synthetic
+Hip replacement,109650,1,private,1,private,41-60,292360.0,invented demo row,synthetic
+MRI head,3400,3,govt,1,none,18-40,2690.0,invented demo row,synthetic
+Appendectomy,28050,2,govt,1,private,60+,33490.0,invented demo row,synthetic
+Hip replacement,109650,3,trust,1,semi,60+,155100.0,invented demo row,synthetic
+ECG,149,2,private,0,none,41-60,260.0,invented demo row,synthetic
+Hip replacement,109650,3,govt,1,private,60+,120240.0,invented demo row,synthetic
+ct scan brain,12219,2,private,1,none,41-60,18120.0,invented demo row,synthetic
+Cataract surgery,13500,2,trust,0,semi,60+,13780.0,invented demo row,synthetic
+MRI head,3400,3,trust,1,none,41-60,4110.0,invented demo row,synthetic
+MRI head,3400,1,private,1,none,18-40,6870.0,invented demo row,synthetic
+ct scan brain,12219,3,govt,1,none,60+,12020.0,invented demo row,synthetic
+ECG,149,2,trust,0,none,41-60,210.0,invented demo row,synthetic
+MRI head,3400,3,govt,0,none,18-40,2540.0,invented demo row,synthetic
+ECG,149,2,trust,1,none,41-60,170.0,invented demo row,synthetic
+Cataract surgery,13500,1,trust,0,semi,41-60,18760.0,invented demo row,synthetic
+Hernia repair,32725,1,trust,0,private,18-40,73500.0,invented demo row,synthetic
+ECG,149,2,trust,1,none,60+,200.0,invented demo row,synthetic
+ct scan brain,12219,2,govt,0,none,18-40,12880.0,invented demo row,synthetic
+Hernia repair,32725,2,private,0,private,18-40,72320.0,invented demo row,synthetic
+Appendectomy,28050,2,govt,1,private,18-40,38100.0,invented demo row,synthetic
+ECG,149,3,private,1,none,18-40,280.0,invented demo row,synthetic
+Hip replacement,109650,3,private,0,private,41-60,197330.0,invented demo row,synthetic
+ct scan brain,12219,2,private,0,none,60+,19850.0,invented demo row,synthetic
+Hernia repair,32725,1,private,0,general,41-60,61130.0,invented demo row,synthetic
+ct scan brain,12219,1,private,0,none,18-40,27740.0,invented demo row,synthetic
+Hip replacement,109650,3,trust,1,general,60+,145040.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,3,trust,0,private,60+,123950.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,private,1,none,41-60,17770.0,invented demo row,synthetic
+Hernia repair,32725,3,trust,0,semi,18-40,39700.0,invented demo row,synthetic
+ct scan brain,12219,1,trust,0,none,18-40,15420.0,invented demo row,synthetic
+ECG,149,3,private,0,none,60+,210.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,govt,0,general,18-40,75750.0,invented demo row,synthetic
+Cataract surgery,13500,3,govt,0,semi,60+,14320.0,invented demo row,synthetic
+Hip replacement,109650,1,govt,1,general,60+,137810.0,invented demo row,synthetic
+MRI head,3400,1,govt,0,none,41-60,4030.0,invented demo row,synthetic
+ct scan brain,12219,2,trust,1,none,18-40,16270.0,invented demo row,synthetic
+Appendectomy,28050,2,trust,1,semi,60+,50900.0,invented demo row,synthetic
+ct scan brain,12219,1,trust,0,none,41-60,19790.0,invented demo row,synthetic
+Cataract surgery,13500,3,trust,0,private,41-60,18510.0,invented demo row,synthetic
+ECG,149,2,govt,0,none,41-60,130.0,invented demo row,synthetic
+Appendectomy,28050,2,private,0,private,60+,65180.0,invented demo row,synthetic
+MRI head,3400,3,private,0,none,41-60,4690.0,invented demo row,synthetic
+Hip replacement,109650,2,trust,0,semi,18-40,143010.0,invented demo row,synthetic
+Cataract surgery,13500,1,trust,1,semi,60+,22080.0,invented demo row,synthetic
+MRI head,3400,3,trust,0,none,18-40,3760.0,invented demo row,synthetic
+ECG,149,1,trust,1,none,41-60,290.0,invented demo row,synthetic
+Cataract surgery,13500,1,trust,1,general,60+,23110.0,invented demo row,synthetic
+MRI head,3400,3,private,1,none,41-60,5750.0,invented demo row,synthetic
+Hernia repair,32725,3,private,1,general,41-60,58530.0,invented demo row,synthetic
+ECG,149,3,private,1,none,41-60,230.0,invented demo row,synthetic
+Ultrasound guided kidney Biopsy,7820,2,private,0,none,41-60,11390.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,trust,0,semi,60+,114870.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,trust,1,general,60+,129740.0,invented demo row,synthetic
+Appendectomy,28050,1,trust,0,general,60+,38480.0,invented demo row,synthetic
+MRI head,3400,1,trust,0,none,18-40,5230.0,invented demo row,synthetic
+Appendectomy,28050,3,private,0,private,60+,48680.0,invented demo row,synthetic
+Hip replacement,109650,3,trust,1,general,18-40,141150.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,2,govt,1,semi,18-40,89320.0,invented demo row,synthetic
+Cataract surgery,13500,2,trust,0,private,18-40,18370.0,invented demo row,synthetic
+Knee replacement revision stage-1,82450,1,trust,0,private,41-60,137450.0,invented demo row,synthetic

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "pmjay",
+    "name": "Ayushman Bharat PM-JAY",
+    "eligibility": {
+      "states": [
+        "All"
+      ],
+      "card_types": [
+        "PMJAY card"
+      ]
+    },
+    "coverage_limit_per_year": 500000,
+    "covered_procedures": [
+      "Cataract surgery",
+      "Hernia repair",
+      "Appendectomy",
+      "Hip replacement"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Ayushman card (PMJAY e-card)"
+    ],
+    "how_to_apply": "Check eligibility on the official PM-JAY portal (Am I Eligible) or the Ayushman App, then generate the Ayushman card.",
+    "source": "https://pmjay.gov.in",
+    "last_checked": "2026-10-03 (from published scheme summaries)",
+    "notes": "Covered procedures are the author's selection of common hospital-stay procedures and were not re-verified one by one against the official package list. Outpatient scans and tests are not matched to this scheme. The age 70 and above Ayushman Vay Vandana card is not modelled."
+  },
+  {
+    "id": "state_scheme",
+    "name": "Rajiv Aarogyasri (Telangana)",
+    "eligibility": {
+      "states": [
+        "Telangana"
+      ],
+      "card_types": [
+        "White ration card"
+      ]
+    },
+    "coverage_limit_per_year": 1000000,
+    "covered_procedures": [
+      "Cataract surgery",
+      "Hernia repair",
+      "Appendectomy",
+      "Hip replacement"
+    ],
+    "documents": [
+      "Aadhaar",
+      "White ration card"
+    ],
+    "how_to_apply": "Verify eligibility on the Aarogyasri portal or through the health department, with Aadhaar and the white ration card.",
+    "source": "https://aarogyasri.telangana.gov.in",
+    "last_checked": "2026-10-03 (from published scheme summaries)",
+    "notes": "Covered procedures are the author's selection of common hospital-stay procedures and were not re-verified one by one against the official package list. The Rs 10 lakh per family per year limit is taken from published scheme summaries."
+  }
+]

@@ -1,0 +1,9 @@
+name,lat,lon,type,city_tier,accredited,rating,procedures,schemes
+"KIMS Hospitals, Secunderabad",17.45836954,78.48648362,private,1,1,4.5,Knee replacement revision stage-1;Hip replacement;Cataract surgery;Appendectomy;Hernia repair;MRI head;ct scan brain;Ultrasound guided kidney Biopsy;ECG,pmjay;state_scheme
+Gandhi Medical College & Hospital,17.42645521,78.50458757,govt,1,1,4.3,Knee replacement revision stage-1;Hip replacement;Cataract surgery;Appendectomy;Hernia repair;MRI head;ct scan brain;Ultrasound guided kidney Biopsy;ECG,pmjay;state_scheme
+"Apollo Hospitals, Jubilee Hills",17.41516643,78.41252739,private,1,1,4.8,Knee replacement revision stage-1;Hip replacement;Cataract surgery;Appendectomy;Hernia repair;MRI head;ct scan brain;Ultrasound guided kidney Biopsy;ECG,pmjay;state_scheme
+Basavatarakam Indo-American Cancer Hospital & Research Institute,17.41739452,78.43053402,trust,1,1,4.1,MRI head;ct scan brain;ECG,pmjay;state_scheme
+"District Hospital, King Koti",17.39346687,78.48252438,govt,1,0,4,Appendectomy;Hernia repair;Cataract surgery;ECG;ct scan brain,pmjay
+Sun Healthcare Services,17.45812109,78.49635858,private,1,0,4.2,ECG,
+"Vijaya Diagnostic Centre, Karmanghat",17.34345615,78.53755358,private,1,1,4.6,MRI head;ct scan brain;Ultrasound guided kidney Biopsy;ECG,
+"Lucid Medical Diagnostics, Dilsukhnagar",17.37016099,78.51604987,private,1,0,3.8,MRI head;ct scan brain;Ultrasound guided kidney Biopsy;ECG,

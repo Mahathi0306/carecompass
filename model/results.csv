@@ -1,0 +1,5 @@
+model,MAE_rupees,MAPE_percent
+Ridge,4773,10.4
+Gradient Boosting,4839,10.2
+Random Forest,5167,10.4
+Baseline,6961,13.3
